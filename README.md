@@ -100,6 +100,7 @@
 - [微信小程序架构分析(中)](https://zhuanlan.zhihu.com/p/22765476)
 - [微信小程序架构分析(下)](https://zhuanlan.zhihu.com/p/22932309)
 - [首个微信小程序开发教程(掘金)](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
+- [手把手教会你小程序登录鉴权](https://juejin.im/post/5ac9b72cf265da23906c486a)
 - [微信小程序开发教程！(稀土区)](http://xituqu.com/508.html)
 - [hello-weapp 微信小程序最简示例教程(dingyiming/weapp-example)](https://github.com/dingyiming/weapp-example)
 - [微信小应用 IDE 的安装以及安装过程的常见问题(champion32/WeAppIdeIssue)](https://github.com/champion32/WeAppIdeIssue)
